@@ -104,7 +104,7 @@ if (!$result) {
     
 <div class="container py-5">
     <div class="d-flex justify-content-between align-items-center mb-5">
-        <h1 class="fw-bold">Administración Y Gestión de Tareas</h1>
+        <h1 class="fw-bold">Administración Y Gestión de Tareas de Despliegue</h1>
         <a href="logout.php" class="btn btn-outline-light"> Cerrar Sesión <i class="fa-solid fa-right-to-bracket"></i> </a>
     </div>
 
